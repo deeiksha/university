@@ -1,2 +1,2 @@
-# university-2
+# university
 Firstwebsitei have created 
