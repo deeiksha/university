@@ -1,0 +1,175 @@
+  *{
+     margin:0px;
+	 padding:0px;
+	 color:#000;
+   }
+   header {
+	   
+	background-image: url(../images/head.gif);   
+	
+		
+   }
+   
+   
+   #content {
+       width:802px;
+	   margin:0px auto;
+     }
+   
+   h1 {
+    width:250px;
+	margin-left:210px;
+    color:fff;
+    text-align:center;
+   }
+   
+   ul{
+    list-style-type: none;
+    margin-left:274px;
+    overflow: hidden;
+	font-size:30px;
+	color:fff;
+	
+     }
+   
+   li{
+	 
+	 float:left;
+	 
+    
+   }
+   
+   h2{
+	font-size:20px;
+	width:500px;
+    padding-top:10px;
+    border-bottom:1px dotted #000; 
+   
+   
+   }
+   
+   .one{
+   float:left;
+   width:400px;
+   height:150px;
+   padding-top:100px;
+   background-color:#b0e164;
+   font-size:80px;
+   color:fff;
+   text-align:center;
+  
+  
+   }
+   
+   #line {
+    float:left;
+    width:400px;;
+    height:150px;
+   padding-top:100px;
+   background-color:#b0e164;
+   font-size:80px;
+   color:fff;
+   text-align:center;
+    border-right:1px solid #000; 
+   
+     }
+   
+   #three{
+      border-right:1px solid #000; 
+   }
+   
+  
+   
+  
+   
+   .cf:after {
+	content: "."; 
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+   }
+   
+    article{
+		
+	font-size:68px;
+	color:fff;
+    text-align:center;
+	float: right;
+	max-width: 202px;
+	height:400px;
+	
+}
+
+  article p {
+	 
+	   height:150px;
+	   margin-top:50px;
+	  
+	  
+  }
+  
+  
+   p {
+	   margin-top:10px;
+	   
+   }
+  
+   #seminar{
+	float: left; 
+	width: 500px;
+	
+    }
+ 
+ 
+     section ul {
+		 
+      list-style-type: none;
+	  margin:15px;
+	  color:000px;
+       }
+  
+    section ul li {
+         
+		 background-image: url(../images/point.gif);
+		 background-repeat: no-repeat;
+	     background-position:left;
+		 font-size:19px;
+		
+	       }
+	
+	
+	section dl 
+	 {
+		 
+      list-style-type: none;
+	  margin:15px;
+	  color:000;
+	  font-size:19px;
+	 
+     }
+  
+  
+    section dl dt{
+		 
+     background-image: url(../images/point.gif);
+	 background-repeat: no-repeat;
+	 background-position:left;
+      
+	  
+     }
+  
+   footer {
+	   background-image: url(../images/foot.gif);
+	   height:30px;
+	   text-align:center;
+	   font-size:16px;
+	   padding-top:15px;
+	   
+	   
+        }
+ 
+  
+   
+   
+   
